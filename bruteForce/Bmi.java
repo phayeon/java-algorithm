@@ -22,7 +22,7 @@ BMI 지수에 따른 결과는 다음과 같다.
 ***************************
 */
 
-package Math;
+package bruteForce;
 import java.util.*;
 
 class Bmi{

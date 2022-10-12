@@ -19,7 +19,7 @@
 ********************************
 */
 
-package Math;
+package bruteForce;
 
 import java.util.Scanner;
 
